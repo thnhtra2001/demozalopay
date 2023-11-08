@@ -241,7 +241,7 @@ Widget _quickConfig = Container(
         children: <Widget>[
           Container(
             padding: const EdgeInsets.symmetric(vertical: 10.0),
-            child: Text("AppID: 2553"),
+            child: Text("AppID: 2554"),
           ),
         ],
       ),
